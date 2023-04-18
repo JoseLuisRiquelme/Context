@@ -18,7 +18,7 @@ return (
            <Link to="/liked1" className="linkContact"style={{color:"green", textDecoration:"none",display:"flex",flexDirection:"row"}}>
             <BsHandThumbsUpFill style={{margin:"5px"}}/>Liked
            </Link>
-           <a href="https://github.com/JoseLuisRiquelme?tab=repositories" style={{justifyContent:"flex-end", marginLeft:"250%", border:"0.2px solid white", borderRadius:"5px", color:"white", textDecoration:"none", padding:"3px"}} target="_blank">Link to code</a>
+           <a href="https://github.com/JoseLuisRiquelme/Context" style={{justifyContent:"flex-end", marginLeft:"250%", border:"0.2px solid white", borderRadius:"5px", color:"white", textDecoration:"none", padding:"3px"}} target="_blank">Link to code</a>
         </Navbar.Brand>
     </Container>
 </Navbar>
