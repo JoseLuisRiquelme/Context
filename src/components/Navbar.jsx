@@ -22,7 +22,7 @@ return (
            <NavLink to="/liked1" className={setActiveClass}style={{textDecoration:"none",display:"flex",flexDirection:"row"}}>
             <BsHandThumbsUpFill style={{margin:"5px",color:"green"}}/>LIKED GAMES
            </NavLink>
-           <a href="https://github.com/JoseLuisRiquelme/React_router2_free_MMORPG_games" style={{justifyContent:"flex-end", marginLeft:"90%", border:"0.2px solid white", borderRadius:"5px", color:"white", textDecoration:"none", padding:"3px"}} target="_blank">Link to code</a>
+           <a href="https://github.com/JoseLuisRiquelme/React_router2_free_MMORPG_games-" style={{justifyContent:"flex-end", marginLeft:"90%", border:"0.2px solid white", borderRadius:"5px", color:"white", textDecoration:"none", padding:"3px"}} target="_blank">Link to code</a>
         </Navbar.Brand>
     </Container>
 </Navbar>
